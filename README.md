@@ -72,7 +72,7 @@ We used two wine datasets containing **chemical attributes** for red and white w
   - `max_depth`: 20  
   - `min_samples_split`: 5  
   - `min_samples_leaf`: 2  
-  - `class_weight`: 'balanced' (to handle the slight class imbalance in quality scores)
+  - `class_weight`: 'balanced_subsample' (to handle the slight class imbalance in quality scores)
 
 ### Improvement Strategies:
 1. **Feature Engineering**:  
