@@ -114,3 +114,6 @@ The following metrics were used to evaluate the performance of the model:
   
 ### Development Plan:
 - Apply the model to **real-time applications** for winemakers or retailers, like a recommendation application based on wine make-up.
+
+### Data Source: 
+- https://www.kaggle.com/datasets/abdullah0a/wine-quality-red-white-analysis-dataset
