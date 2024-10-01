@@ -5,6 +5,9 @@
 ## Project Overview
 Our project aims to build a **machine learning model** that predicts **wine quality** based on its chemical properties. Using both **red and white wine datasets**, we sought to classify wines into **quality categories** and identify the key factors that affect wine quality. We primarily used the **Random Forest Classifier**, which achieved an accuracy of over **85%** when classifying wines into quality classes.
 
+##Download:
+- Please download the datasets we used in our project above to use our notebooks. We apologize if there are absolute paths for csv file access in our notebooks, please use relative paths to access them if needed, thank you.
+
 ### Key Goals:
 1. Predict wine quality (Poor, Acceptable, or High) based on chemical attributes.
 2. Classify wine type as either red or white.
